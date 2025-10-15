@@ -15,17 +15,14 @@ The proposed LCS achieved interpretable rule sets while maintaining competitive 
 
 ## 📁 Project Structure
 
-facial-emotion-recognition-lcs/
-│
+```bash
 ├── train/ # Training dataset (8.6 MB)
 ├── val/ # Validation dataset (1.9 MB)
 ├── test/ # Test dataset (2.8 MB)
-│
 ├── facial_emotion_recognition_lcs.ipynb # Main code file
 └── README.md
+```
 
-markdown
-Copy code
 
 ---
 
