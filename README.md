@@ -190,7 +190,8 @@ https://www.kaggle.com/datasets/msambare/fer2013/data
 3. Implementation and experimentation carried out by the author using Python (scikit-learn, OpenCV, and XCS framework).
 
 👨‍💻 Author
-
+```bash
 Nirankar Jaiswar
 Master of Information Technology
 Whitireia and WelTec, Wellington
+```
