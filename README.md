@@ -159,34 +159,38 @@ Iteration 2000 — Accuracy: 0.4563 — Population: 1696
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/<your-username>/facial-emotion-recognition-lcs.git
 cd facial-emotion-recognition-lcs
+```
 
-2️⃣ Install Dependencies
-
+### 1️⃣ Clone the Repository
+```bash
 pip install opencv-python scikit-image scikit-learn matplotlib seaborn xgboost tqdm
+```
 
-3️⃣ Run the Notebook
-bash
+### 3️⃣ Run the Notebook
+```bash
 
 jupyter notebook facial_emotion_recognition_lcs.ipynb
+```
+---
 
-📚 References
+## 📚 References
 Amin, R. (2023). Facial Emotion Recognition Dataset. Kaggle.
 https://www.kaggle.com/datasets/rohulaminlabid/facial-emotion-recognition-dataset
 
 Sambare, M. (2023). FER-2013 Dataset. Kaggle.
 https://www.kaggle.com/datasets/msambare/fer2013/data
 
-🧾 License & Acknowledgements
-The datasets are provided under Kaggle Open License for educational and research purposes.
+## 🧾 License & Acknowledgements
+1. The datasets are provided under Kaggle Open License for educational and research purposes.
+2. Project developed as part of academic coursework on explainable machine learning.
+3. Implementation and experimentation carried out by the author using Python (scikit-learn, OpenCV, and XCS framework).
 
-Project developed as part of academic coursework on explainable machine learning.
+## 👨‍💻 Author
 
-Implementation and experimentation carried out by the author using Python (scikit-learn, OpenCV, and XCS framework).
-
-👨‍💻 Author
 Nirankar Jaiswar
 Master of Information Technology
 Whitireia and WelTec, Wellington
